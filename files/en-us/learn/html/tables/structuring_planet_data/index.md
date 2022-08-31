@@ -63,7 +63,7 @@ The following steps describe what you need to do to complete the table example. 
 
 The finished table should look like this:
 
-![](assessment-table.png)
+![Final image of assessment of structuring planet data](assessment-table.png)
 
 You can also [see the example live here](https://mdn.github.io/learning-area/html/tables/assessment-finished/planets-data.html) (no looking at the source code — don't cheat!)
 
